@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff6ecbb7-f2a8-447c-80ca-220da72697f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YXZWoNSZVLPi6GlDZUFtynGZYt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/fengyingcong/IdeaProjects/JavaPractice/src/A11_IO/files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/A11_IO/files" />
+      <recent name="$PROJECT_DIR$/src/A11_IO/files2" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/A08_MethodReference" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Map" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OutputStreamWriterDemo01">
+    <configuration name="BufferedReaderDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_IO.B05_BufferedReAndWri.BufferedReaderDemo02" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A11_IO.B05_BufferedReAndWri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputStreamReaderDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_IO.B06_InputStreamReader.InputStreamReaderDemo01" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A11_IO.B07_OutputStreamWriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputStreamWriterDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_IO.B07_OutputStreamWriter.OutputStreamWriterDemo01" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A11_IO.B07_OutputStreamWriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_IO.Practice.Practice05" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A11_IO.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_IO.Practice.Practice06" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A11_IO.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OutputStreamWriterDemo01" />
+        <item itemvalue="Application.InputStreamReaderDemo01" />
+        <item itemvalue="Application.Practice06" />
+        <item itemvalue="Application.Practice05" />
+        <item itemvalue="Application.BufferedReaderDemo02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6ecbb7-f2a8-447c-80ca-220da72697f3" name="Changes" comment="" />
+      <created>1700673920276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700673920276</updated>
+      <workItem from="1700673921406" duration="1455000" />
+      <workItem from="1703073335353" duration="8000" />
+      <workItem from="1703073416768" duration="1235000" />
+      <workItem from="1703301643140" duration="639000" />
+      <workItem from="1703467813087" duration="598000" />
+      <workItem from="1703555355150" duration="1197000" />
+      <workItem from="1703744939639" duration="3614000" />
+      <workItem from="1704010559174" duration="3000" />
+      <workItem from="1706239324792" duration="602000" />
+      <workItem from="1706341931363" duration="3866000" />
+      <workItem from="1706705749398" duration="6344000" />
+      <workItem from="1706802387556" duration="1198000" />
+      <workItem from="1707109327806" duration="3874000" />
+      <workItem from="1707180101392" duration="598000" />
+      <workItem from="1707182665035" duration="635000" />
+      <workItem from="1707630479828" duration="1069000" />
+      <workItem from="1707658873098" duration="598000" />
+      <workItem from="1707702390025" duration="2473000" />
+      <workItem from="1708046030559" duration="598000" />
+      <workItem from="1708062595254" duration="1196000" />
+      <workItem from="1708134037069" duration="842000" />
+      <workItem from="1708422633016" duration="9846000" />
+      <workItem from="1708937873605" duration="13803000" />
+      <workItem from="1709086805341" duration="8394000" />
+      <workItem from="1709179487184" duration="61248000" />
+      <workItem from="1710063134080" duration="78000" />
+      <workItem from="1710063289053" duration="1874000" />
+      <workItem from="1710073703615" duration="5499000" />
+      <workItem from="1710086429068" duration="728000" />
+      <workItem from="1710126819846" duration="49484000" />
+      <workItem from="1710396539785" duration="6858000" />
+      <workItem from="1710407177580" duration="10948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_IO/B03_BufferedStream/BufferedStreamDemo02.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_IO/B01_Input/FileInputStreamDemo02.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
