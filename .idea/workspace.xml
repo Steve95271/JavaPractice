@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff6ecbb7-f2a8-447c-80ca-220da72697f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -38,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/fengyingcong/IdeaProjects/JavaPractice/src/A11_IO/files",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fengyingcong/IdeaProjects/JavaPractice/src/A11_IO/files&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/A11_IO/files" />
@@ -60,17 +59,24 @@
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/A08_MethodReference" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/A13_Networking/UploadFile/ClientFile" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="A13_Networking.UploadFile" />
+      <recent name="A13_Networking" />
+      <recent name="A12_Thread.Practice.P4" />
+      <recent name="A11_IO.B08_Serialization" />
       <recent name="Map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutputStreamWriterDemo01">
-    <configuration name="BufferedReaderDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_IO.B05_BufferedReAndWri.BufferedReaderDemo02" />
+  <component name="RunManager" selected="Application.B03_SimpleGui03">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A08_MethodReference.Game.App" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_IO.B05_BufferedReAndWri.*" />
+          <option name="PATTERN" value="A08_MethodReference.Game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamReaderDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_IO.B06_InputStreamReader.InputStreamReaderDemo01" />
+    <configuration name="B01_myFirstGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A14_GUI.B01_myFirstGui" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_IO.B07_OutputStreamWriter.*" />
+          <option name="PATTERN" value="A14_GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputStreamWriterDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_IO.B07_OutputStreamWriter.OutputStreamWriterDemo01" />
+    <configuration name="B02_SimpleGui02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A14_GUI.B02_SimpleGui02" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_IO.B07_OutputStreamWriter.*" />
+          <option name="PATTERN" value="A14_GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_IO.Practice.Practice05" />
+    <configuration name="B03_SimpleGui03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A14_GUI.B03_SimpleGui03" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_IO.Practice.*" />
+          <option name="PATTERN" value="A14_GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_IO.Practice.Practice06" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A13_Networking.Client3" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_IO.Practice.*" />
+          <option name="PATTERN" value="A13_Networking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OutputStreamWriterDemo01" />
-        <item itemvalue="Application.InputStreamReaderDemo01" />
-        <item itemvalue="Application.Practice06" />
-        <item itemvalue="Application.Practice05" />
-        <item itemvalue="Application.BufferedReaderDemo02" />
+        <item itemvalue="Application.B03_SimpleGui03" />
+        <item itemvalue="Application.B02_SimpleGui02" />
+        <item itemvalue="Application.B01_myFirstGui" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Client3" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +185,17 @@
       <workItem from="1710086429068" duration="728000" />
       <workItem from="1710126819846" duration="49484000" />
       <workItem from="1710396539785" duration="6858000" />
-      <workItem from="1710407177580" duration="10948000" />
+      <workItem from="1710407177580" duration="15459000" />
+      <workItem from="1710552474347" duration="8660000" />
+      <workItem from="1710584842082" duration="1737000" />
+      <workItem from="1710586927460" duration="6293000" />
+      <workItem from="1710662366621" duration="17000" />
+      <workItem from="1710694601246" duration="52335000" />
+      <workItem from="1711328662399" duration="10122000" />
+      <workItem from="1711413339254" duration="17680000" />
+      <workItem from="1711443716579" duration="4940000" />
+      <workItem from="1711511355850" duration="11584000" />
+      <workItem from="1711549526351" duration="2990000" />
     </task>
     <servers />
   </component>
