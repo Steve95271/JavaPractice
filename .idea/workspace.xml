@@ -69,13 +69,13 @@
       <recent name="Map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B03_SimpleGui03">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A08_MethodReference.Game.App" />
+  <component name="RunManager" selected="Application.SparseArrays">
+    <configuration name="MiniMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.MiniMax" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A08_MethodReference.Game.*" />
+          <option name="PATTERN" value="HackerRankIPK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B01_myFirstGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A14_GUI.B01_myFirstGui" />
+    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.PlusMinus" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A14_GUI.*" />
+          <option name="PATTERN" value="HackerRankIPK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B02_SimpleGui02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A14_GUI.B02_SimpleGui02" />
+    <configuration name="SparseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.SparseArrays" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A14_GUI.*" />
+          <option name="PATTERN" value="HackerRankIPK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B03_SimpleGui03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A14_GUI.B03_SimpleGui03" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test01" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A14_GUI.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A13_Networking.Client3" />
+    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.TimeConversion" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A13_Networking.*" />
+          <option name="PATTERN" value="HackerRankIPK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B03_SimpleGui03" />
-        <item itemvalue="Application.B02_SimpleGui02" />
-        <item itemvalue="Application.B01_myFirstGui" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.SparseArrays" />
+        <item itemvalue="Application.TimeConversion" />
+        <item itemvalue="Application.MiniMax" />
+        <item itemvalue="Application.PlusMinus" />
+        <item itemvalue="Application.Test01" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,11 @@
       <workItem from="1711443716579" duration="4940000" />
       <workItem from="1711511355850" duration="11584000" />
       <workItem from="1711549526351" duration="2990000" />
-      <workItem from="1711965566291" duration="1210000" />
+      <workItem from="1711965566291" duration="1808000" />
+      <workItem from="1712245832923" duration="8407000" />
+      <workItem from="1712502310544" duration="1262000" />
+      <workItem from="1712578354572" duration="7781000" />
+      <workItem from="1712755420961" duration="115000" />
     </task>
     <servers />
   </component>
