@@ -30,7 +30,7 @@ public class Practice01 {
                 if (ticket >= 0) {
                     Thread currentThread = Thread.currentThread();
                     try {
-                        Thread.sleep(500);
+                        Thread.sleep(300);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }

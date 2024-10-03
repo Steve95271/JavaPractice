@@ -12,7 +12,6 @@ public class Test01 {
 
         if (charArrayLength == 1) {
             System.out.println("No");
-            return;
         } else if (charArrayLength % 2 == 0) {
             int midToRight = (charArrayLength / 2);
             for (int midToLeft = (charArrayLength / 2) - 1; midToLeft >= 0; midToLeft--) {
@@ -36,6 +35,5 @@ public class Test01 {
                 midToRight++;
             }
         }
-
     }
 }

@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ff6ecbb7-f2a8-447c-80ca-220da72697f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A12_Thread/Practice/P1/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A12_Thread/Practice/P1/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A12_Thread/ThreadPool/B02_CustomThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A12_Thread/ThreadPool/B02_CustomThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRankIPK/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRankIPK/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRankIPK/SparseArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRankIPK/SparseArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Steve95271&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Steve95271/JavaDemoAndPractice.git&quot;,
+    &quot;accountId&quot;: &quot;142564c4-f9d0-41b1-9008-8cf80d9d173d&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -38,15 +58,39 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.A12_Thread.WaitAndNotify02.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B01_CreateThreadPool01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B02_CustomThreadPool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B03_MaxRunningThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiagonalDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlippingBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapDemo01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LonelyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputFormatting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusMinus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectionExample_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectionExample_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SparseArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo11.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/fengyingcong/IdeaProjects/JavaPractice/src/A11_IO/files&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -69,9 +113,9 @@
       <recent name="Map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SparseArrays">
-    <configuration name="MiniMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.MiniMax" />
+  <component name="RunManager" selected="Application.Test02">
+    <configuration name="OutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.OutputFormatting" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +140,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflectionExample_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A15_Reflection.ReflectionExample_02" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A15_Reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SparseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRankIPK.SparseArrays" />
       <module name="JavaPractice" />
@@ -109,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test01" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test02" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -122,28 +179,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRankIPK.TimeConversion" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HackerRankIPK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test02" />
         <item itemvalue="Application.SparseArrays" />
-        <item itemvalue="Application.TimeConversion" />
-        <item itemvalue="Application.MiniMax" />
         <item itemvalue="Application.PlusMinus" />
-        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.OutputFormatting" />
+        <item itemvalue="Application.ReflectionExample_02" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -200,6 +252,27 @@
       <workItem from="1712502310544" duration="1262000" />
       <workItem from="1712578354572" duration="7781000" />
       <workItem from="1712755420961" duration="115000" />
+      <workItem from="1714027691427" duration="3153000" />
+      <workItem from="1714470634622" duration="8957000" />
+      <workItem from="1715653316329" duration="776000" />
+      <workItem from="1715743239327" duration="1771000" />
+      <workItem from="1716993810915" duration="2317000" />
+      <workItem from="1717685679324" duration="726000" />
+      <workItem from="1718507608945" duration="1844000" />
+      <workItem from="1718545299245" duration="2825000" />
+      <workItem from="1718588817122" duration="1588000" />
+      <workItem from="1718633366294" duration="8642000" />
+      <workItem from="1718773683662" duration="2399000" />
+      <workItem from="1719027869618" duration="8024000" />
+      <workItem from="1719970045018" duration="424000" />
+      <workItem from="1719983319325" duration="561000" />
+      <workItem from="1720422561309" duration="5031000" />
+      <workItem from="1721719771389" duration="1740000" />
+      <workItem from="1726277198323" duration="1607000" />
+      <workItem from="1727702298454" duration="476000" />
+      <workItem from="1727711364530" duration="2195000" />
+      <workItem from="1727772919050" duration="994000" />
+      <workItem from="1727961134367" duration="156000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,7 @@ import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.function.Consumer;
 
 public class PlusMinus {
 
@@ -20,9 +21,28 @@ public class PlusMinus {
         BigDecimal negResult = bdNegative.divide(bdTotal, 6, RoundingMode.HALF_UP);
         BigDecimal zerResult = bdZero.divide(bdTotal, 6, RoundingMode.HALF_UP);
 
-        System.out.println(posResult);
+/*        System.out.println(posResult);
         System.out.println(negResult);
-        System.out.println(zerResult);
+        System.out.println(zerResult);*/
+
+        int zero = 0;
+        int positive = 0;
+        int negative = 0;
+
+        for (Integer num : arr) {
+            if (num == 0) {
+                zero += 1;
+            } else if (num > 0) {
+                positive += 1;
+            } else {
+                negative += 1;
+            }
+        }
+
+        System.out.println("Zero: " + zero);
+        System.out.println("Positive: " + positive);
+        System.out.println("Negative: " + negative);
+        System.out.println("Total: " + arr.size());
 
 
     }
